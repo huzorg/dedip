@@ -1,2 +1,26 @@
 # dedip
-find more details of an Ip Address
+find more details about an Ip Address
+
+#installation instructions;
+```
+pkg install python
+```
+```
+pip install pyfiglet
+```
+```
+pip install colorama
+```
+```
+pkg install git
+```
+```
+git clone https://github.com/minewaffle/dedip
+```
+# how to run it;
+```
+cd dedip
+```
+```
+python dedip.py
+```
