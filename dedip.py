@@ -7,7 +7,7 @@ from colorama import Fore, Style
 
 print(Style.BRIGHT + Fore.BLUE)
 print(pyfiglet.figlet_format("dedip", font="bulbhead"))
-print(f"{Fore.GREEN}https://discord.gg/cn8GcB5vRv {Fore.MAGENTA}BY {Fore.GREEN}huzorg {Fore.YELLOW}V.1")
+print(f"{Fore.GREEN}https://discord.gg/cn8GcB5vRv")
 
 while True:
     ipcheck = 0
