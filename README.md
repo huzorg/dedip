@@ -1,9 +1,12 @@
 # dedip
 find more details about an Ip Address
 
-#installation instructions;
+#installation instructions[termux];
 ```
-pkg install python
+pkg install python3&&pip install pyfiglet&&pip install colorama&&pkg install git&&git clone https://github.com/huzorg/dedip
+```
+```
+pkg install python3
 ```
 ```
 pip install pyfiglet
