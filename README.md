@@ -27,7 +27,7 @@ git clone https://github.com/huzorg/dedip
 ```
 # how to run it;
 ```
-cd dedip
+go to it's directory then input the following command
 ```
 ```
 python dedip.py
